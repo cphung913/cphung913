@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cphung913
-- 👀 I’m interested in Frontend Web Development with Javascript, HTML and CSS
+- 👀 I’m interested in Fullstack Web Development
 - 🌱 I’m currently learning on The Odin Project
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
