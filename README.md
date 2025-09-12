@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @cphung913
-- 👀 I’m interested in Fullstack Web Development
-- 🌱 I’m currently learning on The Odin Project
+- 👀 I’m interested in Python and Machine Learning
+- 🌱 I’m currently studying at the University of California, Irvine
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Reach me at chasephung13@gmail.com
 
 <!---
 cphung913/cphung913 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
