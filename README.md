@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cphung913
-- 👀 I’m interested in Python and Machine Learning
+- 👀 I’m interested in Python, Web development, and Machine learning
 - 🌱 I’m currently studying at the University of California, Irvine
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me at chasephung13@gmail.com
