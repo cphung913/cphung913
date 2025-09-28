@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chase Phung
-- 👀 I’m interested in Python, Web development, and Machine learning
+- 👀 I’m interested in full stack web development
 - 🌱 I’m currently studying at the University of California, Irvine
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 Reach me at chasephung13@gmail.com
