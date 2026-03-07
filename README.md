@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Chase Phung
-- 👀 I’m interested in full stack web development
-- 🌱 I’m currently studying at the University of California, Irvine
-- 💞️ I’m looking to collaborate on open source projects
+- 👀 I’m interested in full stack web development and machine learning research
+- 🌱 I’m currently studying Computer Science at the University of California, Irvine
+- 💞️ I’m looking to collaborate at hackathon events.
 - 📫 Reach me at chasephung13@gmail.com
 
 <!---
