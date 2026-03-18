@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Chase Phung
+# Hi, I'm Chase Phung
 
 **CS Student @ UC Irvine · Full Stack & ML Enthusiast · Hackathon Builder**
 
@@ -10,7 +10,7 @@ I'm a Computer Science student at the **University of California, Irvine** passi
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Languages**
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -30,7 +30,7 @@ I'm a Computer Science student at the **University of California, Irvine** passi
 
 ---
 
-## 🔭 What I'm Up To
+## What I'm Up To
 
 - 🎓 Pursuing a BS in Computer Science @ **UC Irvine**
 - 🚀 Building an ML efficiency benchmarking project in Pytorch
@@ -39,7 +39,7 @@ I'm a Computer Science student at the **University of California, Irvine** passi
 
 ---
 
-## 📫 Connect
+## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chasephung)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:chasephung13@gmail.com)
