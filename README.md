@@ -47,4 +47,4 @@ I'm a Computer Science student at the **University of California, Irvine** passi
 
 ---
 
-*Thanks for stopping by — open to opportunities, let's build something together.*
+*Open to opportunities, let's build something together.*
