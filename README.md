@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Chase Phung
+# 👋 Hi, I'm Chase Phung
 
 **CS Student @ UC Irvine · Full Stack & ML Enthusiast · Hackathon Builder**
 
