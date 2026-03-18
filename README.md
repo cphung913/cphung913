@@ -34,7 +34,7 @@ I'm a Computer Science student at the **University of California, Irvine** passi
 ## What I'm Up To
 
 - 🎓 Pursuing a BS in Computer Science @ **UC Irvine**
-- 🚀 Building an ML efficiency benchmarking project in Pytorch
+- 🚀 Building a ML efficiency benchmarking project in Pytorch
 - 🤝 Open to collaborating at hackathons and on projects
 - 📬 Reach me at **chasephung13@gmail.com**
 
