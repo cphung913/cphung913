@@ -6,7 +6,7 @@
 
 ## About Me
 
-I'm a Computer Science student at the **University of California, Irvine** passionate about building things at the intersection of full stack web development and machine learning. I love fast-paced hackathon environments where I can ship real projects with real teams — currently looking to collaborate on interesting open source projects and always up for a hackathon.
+I'm a Computer Science student at the **University of California, Irvine** passionate about building things at the intersection of full stack web development and machine learning. I love fast-paced hackathon environments where I can ship real projects with real teams. Currently looking to collaborate on interesting open source projects and always up for a hackathon.
 
 ---
 
