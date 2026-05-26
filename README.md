@@ -1,50 +1,46 @@
-# Hi, I'm Chase Phung
-
-**CS Student @ UC Irvine · Aspiring Software Engineer · Hackathon Builder**
-
+# Chase Phung
+ 
+**CS @ UC Irvine · Incoming SWE Intern @ Ease.io (Summer 2026)**
+ 
+Computer Science student at UC Irvine focused on building web and mobile applications.
+ 
+Portfolio: [chasephung.dev](https://chasephung.dev) · Email: chasephung13@gmail.com
+ 
 ---
-
-## About Me
-
-I'm a Computer Science student at the **University of California, Irvine** passionate about building things that solve problems. I love fast-paced hackathon environments where I can ship real projects with real teams. Currently looking to collaborate on interesting open source projects and always up for a hackathon.
-
+ 
+## Experience
+ 
+- **Incoming SWE Intern** — Ease.io *(Jun. 2026)*
+- **Learning Assistant, ICS 6B (Boolean Logic & Discrete Structures)** — UC Irvine *(Mar. 2026 – Present)*
 ---
-
+ 
+## Featured Project
+ 
+**🏆 [DownStream](#)** — *Best AI for Environmental Impact, UCI AWS Cloud Hacks 2026*
+Real-time chemical spill propagation simulator for emergency managers on the Mississippi River. Budget-constrained mitigation logic anchored to FEMA HMGP benchmarks from 597 federal projects.
+`React` `TypeScript` `AWS Amplify` `Amazon Location Service`
+ 
+---
+ 
 ## Tech Stack
+ 
+**Languages** &nbsp; TypeScript · JavaScript · Python 
 
-**Languages**
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+**Frontend** &nbsp; React · Next.js · Tailwind CSS 
 
-**Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+**Backend** &nbsp; FastAPI · SQL 
 
-**Backend & Cloud**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+**Cloud & Tools** &nbsp; AWS · Docker · Git · Vercel · Railway 
 
-**ML / AI**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-
+ 
+**Certifications:** AWS Certified Cloud Practitioner *(Jan. 2026)* 
+ 
 ---
-
-## What I'm Up To
-
-- 🎓 Pursuing a BS in Computer Science @ **UC Irvine**
-- 🚀 Building a Firefighter SaaS tool
-- 🤝 Open to collaborating at hackathons and on projects
-- 📬 Reach me at **chasephung13@gmail.com**
-
----
-
+ 
 ## Connect
-
+ 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chasephung)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://chasephung.dev)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:chasephung13@gmail.com)
-
----
-
-*Open to opportunities, let's build something together.*
+ 
+*Open to SWE internships for Summer 2027.*
