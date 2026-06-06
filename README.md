@@ -16,7 +16,7 @@ Portfolio: [chasephung.dev](https://chasephung.dev) · Email: chasephung13@gmail
  
 ## Featured Project
  
-**🏆 DownStream** — *Best AI for Environmental Impact, UCI AWS Cloud Hacks 2026*
+**DownStream** — *🏆 Best AI for Environmental Impact, UCI AWS Cloud Hacks 2026*
 
 Real-time chemical spill propagation simulator for emergency managers on the Mississippi River. Budget-constrained mitigation logic anchored to FEMA HMGP benchmarks from 597 federal projects.
 
