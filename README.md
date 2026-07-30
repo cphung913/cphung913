@@ -11,6 +11,7 @@ Portfolio: [chasephung.dev](https://chasephung.dev) · Email: chasephung13@gmail
 ## Experience
 
 **Software Engineer Intern** — Ease Inc. *(Jun. 2026 – Present)*
+
 *Audit and inspection software for manufacturers · Irvine, CA*
 
 `Python` `TypeScript` `C#` `React` `PostgreSQL` `AWS`
